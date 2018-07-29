@@ -13,11 +13,11 @@
 
 ### Download `.pdf`
 
-[Link to N1X certificate](cerificates/IBM_Blockchain_Essentials_Badge20180729-11-1px1f3q.pdf)
+[Link to N1X certificate](IBM_Blockchain_Essentials_Badge20180729-11-1px1f3q.pdf)
 
 ## Snapshot
 
-![](cerificates/ibm-blockchain-essentials.png)
+![](ibm-blockchain-essentials.png)
 
 ## Js-Widget
 
